@@ -1,0 +1,7 @@
+Origin: looha的Tweak
+Label: looha 私人源 
+Suite: stable
+Version: 1.0
+Architectures:iphoneos-arm
+Components: main
+Description: looha Tweaks
